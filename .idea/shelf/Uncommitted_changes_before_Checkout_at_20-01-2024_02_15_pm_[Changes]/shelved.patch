@@ -1,0 +1,321 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"AutoImportSettings\">\r\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"b267a7ed-54e0-4ac4-b7e1-1f9fe69edda7\" name=\"Changes\" comment=\"Array collection 12-08-2023\">\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\r\n    </list>\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"FileTemplateManagerImpl\">\r\n    <option name=\"RECENT_TEMPLATES\">\r\n      <list>\r\n        <option value=\"Class\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"MarkdownSettingsMigration\">\r\n    <option name=\"stateVersion\" value=\"1\" />\r\n  </component>\r\n  <component name=\"ProjectId\" id=\"2FVBgCkExvx2VHl0jxlgQgbVkgq\" />\r\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\" />\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\">{\r\n  &quot;keyToString&quot;: {\r\n    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,\r\n    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,\r\n    &quot;last_opened_file_path&quot;: &quot;C:/Users/Aditya Pawar/IdeaProjects/Java_con&quot;,\r\n    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,\r\n    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,\r\n    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;\r\n  }\r\n}</component>\r\n  <component name=\"RunManager\" selected=\"Application.Find_duplicate_element_in_Array\">\r\n    <configuration name=\"Even_odd_valuefromArray\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <option name=\"MAIN_CLASS_NAME\" value=\"Collection.Even_odd_valuefromArray\" />\r\n      <module name=\"Java_con\" />\r\n      <extension name=\"coverage\">\r\n        <pattern>\r\n          <option name=\"PATTERN\" value=\"Collection.*\" />\r\n          <option name=\"ENABLED\" value=\"true\" />\r\n        </pattern>\r\n      </extension>\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <configuration name=\"Find_duplicate_element_in_Array\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <option name=\"MAIN_CLASS_NAME\" value=\"Collection.Find_duplicate_element_in_Array\" />\r\n      <module name=\"Java_con\" />\r\n      <extension name=\"coverage\">\r\n        <pattern>\r\n          <option name=\"PATTERN\" value=\"Collection.*\" />\r\n          <option name=\"ENABLED\" value=\"true\" />\r\n        </pattern>\r\n      </extension>\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <configuration name=\"Java\" type=\"Application\" factoryName=\"Application\">\r\n      <option name=\"MAIN_CLASS_NAME\" value=\"Collection.Array_list\" />\r\n      <module name=\"Java_con\" />\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <configuration name=\"Practice\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <option name=\"ALTERNATIVE_JRE_PATH\" value=\"1.8\" />\r\n      <option name=\"ALTERNATIVE_JRE_PATH_ENABLED\" value=\"true\" />\r\n      <option name=\"MAIN_CLASS_NAME\" value=\"Collection.Practice\" />\r\n      <module name=\"Java_con\" />\r\n      <extension name=\"coverage\">\r\n        <pattern>\r\n          <option name=\"PATTERN\" value=\"Collection.*\" />\r\n          <option name=\"ENABLED\" value=\"true\" />\r\n        </pattern>\r\n      </extension>\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <configuration name=\"Sum_of_element_in_Array\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <option name=\"MAIN_CLASS_NAME\" value=\"Collection.Sum_of_element_in_Array\" />\r\n      <module name=\"Java_con\" />\r\n      <extension name=\"coverage\">\r\n        <pattern>\r\n          <option name=\"PATTERN\" value=\"Collection.*\" />\r\n          <option name=\"ENABLED\" value=\"true\" />\r\n        </pattern>\r\n      </extension>\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <configuration name=\"star_program\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <option name=\"MAIN_CLASS_NAME\" value=\"Collection.star_program\" />\r\n      <module name=\"Java_con\" />\r\n      <extension name=\"coverage\">\r\n        <pattern>\r\n          <option name=\"PATTERN\" value=\"Collection.*\" />\r\n          <option name=\"ENABLED\" value=\"true\" />\r\n        </pattern>\r\n      </extension>\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <configuration name=\"Unnamed\" type=\"GradleRunConfiguration\" factoryName=\"Gradle\" nameIsGenerated=\"true\">\r\n      <ExternalSystemSettings>\r\n        <option name=\"executionName\" />\r\n        <option name=\"externalProjectPath\" value=\"\" />\r\n        <option name=\"externalSystemIdString\" value=\"GRADLE\" />\r\n        <option name=\"scriptParameters\" value=\"\" />\r\n        <option name=\"taskDescriptions\">\r\n          <list />\r\n        </option>\r\n        <option name=\"taskNames\">\r\n          <list />\r\n        </option>\r\n        <option name=\"vmOptions\" />\r\n      </ExternalSystemSettings>\r\n      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>\r\n      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>\r\n      <DebugAllEnabled>false</DebugAllEnabled>\r\n      <method v=\"2\" />\r\n    </configuration>\r\n    <list>\r\n      <item itemvalue=\"Application.Java\" />\r\n      <item itemvalue=\"Application.Even_odd_valuefromArray\" />\r\n      <item itemvalue=\"Application.Find_duplicate_element_in_Array\" />\r\n      <item itemvalue=\"Application.Sum_of_element_in_Array\" />\r\n      <item itemvalue=\"Application.star_program\" />\r\n      <item itemvalue=\"Application.Practice\" />\r\n      <item itemvalue=\"Gradle.Unnamed\" />\r\n    </list>\r\n    <recent_temporary>\r\n      <list>\r\n        <item itemvalue=\"Application.Find_duplicate_element_in_Array\" />\r\n        <item itemvalue=\"Application.Even_odd_valuefromArray\" />\r\n        <item itemvalue=\"Application.Sum_of_element_in_Array\" />\r\n        <item itemvalue=\"Application.star_program\" />\r\n        <item itemvalue=\"Application.Practice\" />\r\n      </list>\r\n    </recent_temporary>\r\n  </component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"b267a7ed-54e0-4ac4-b7e1-1f9fe69edda7\" name=\"Changes\" comment=\"\" />\r\n      <created>1664567482668</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1664567482668</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00001\" summary=\"Array collection\">\r\n      <created>1665858292371</created>\r\n      <option name=\"number\" value=\"00001\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1665858292371</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00002\" summary=\"Array collection\">\r\n      <created>1691586903643</created>\r\n      <option name=\"number\" value=\"00002\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1691586903643</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00003\" summary=\"Array collection 12-08-2023\">\r\n      <created>1691856582532</created>\r\n      <option name=\"number\" value=\"00003\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00003\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1691856582532</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00004\" summary=\"Array collection 16-08-2023\">\r\n      <created>1692194123755</created>\r\n      <option name=\"number\" value=\"00004\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00004\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1692194123755</updated>\r\n    </task>\r\n    <option name=\"localTasksCounter\" value=\"5\" />\r\n    <servers />\r\n  </component>\r\n  <component name=\"Vcs.Log.Tabs.Properties\">\r\n    <option name=\"TAB_STATES\">\r\n      <map>\r\n        <entry key=\"MAIN\">\r\n          <value>\r\n            <State />\r\n          </value>\r\n        </entry>\r\n      </map>\r\n    </option>\r\n  </component>\r\n  <component name=\"VcsManagerConfiguration\">\r\n    <MESSAGE value=\"Array collection\" />\r\n    <MESSAGE value=\"Array collection 12-08-2023\" />\r\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"Array collection 12-08-2023\" />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	
++++ b/.idea/workspace.xml	
+@@ -4,8 +4,14 @@
+     <option name="autoReloadType" value="SELECTIVE" />
+   </component>
+   <component name="ChangeListManager">
+-    <list default="true" id="b267a7ed-54e0-4ac4-b7e1-1f9fe69edda7" name="Changes" comment="Array collection 12-08-2023">
++    <list default="true" id="b267a7ed-54e0-4ac4-b7e1-1f9fe69edda7" name="Changes" comment="Array collection 25-08-2023">
++      <change afterPath="$PROJECT_DIR$/src/Collection/reverseaWordSentence.java" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/src/Collection/Extract_First_letter_of_sentance.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Collection/Extract_First_letter_of_sentance.java" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/src/Collection/Practice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Collection/Practice.java" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/src/Collection/Reverse_the_sentence.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Collection/Reverse_the_sentence.java" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/src/Collection/Selenium_Topics.java" beforeDir="false" />
+     </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+@@ -21,12 +27,27 @@
+   </component>
+   <component name="Git.Settings">
+     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
++  </component>
++  <component name="GitHubPullRequestSearchHistory">{
++  &quot;lastFilter&quot;: {
++    &quot;state&quot;: &quot;OPEN&quot;
++  }
++}</component>
++  <component name="GithubPullRequestsUISettings">
++    <option name="selectedUrlAndAccountId">
++      <UrlAndAccount>
++        <option name="accountId" value="3f1b2664-f452-4f40-b8b3-1d986f929eb3" />
++        <option name="url" value="https://github.com/aditya0594/java_con.git" />
++      </UrlAndAccount>
++    </option>
+   </component>
+   <component name="MarkdownSettingsMigration">
+     <option name="stateVersion" value="1" />
+   </component>
+   <component name="ProjectId" id="2FVBgCkExvx2VHl0jxlgQgbVkgq" />
+-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
++  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
++    <ConfirmationsSetting value="2" id="Add" />
++  </component>
+   <component name="ProjectViewState">
+     <option name="hideEmptyMiddlePackages" value="true" />
+     <option name="showLibraryContents" value="true" />
+@@ -41,9 +62,9 @@
+     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
+   }
+ }</component>
+-  <component name="RunManager" selected="Application.Find_duplicate_element_in_Array">
+-    <configuration name="Even_odd_valuefromArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+-      <option name="MAIN_CLASS_NAME" value="Collection.Even_odd_valuefromArray" />
++  <component name="RunManager" selected="Application.reverseaWordSentence">
++    <configuration name="Extract_First_letter_of_sentance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
++      <option name="MAIN_CLASS_NAME" value="Collection.Extract_First_letter_of_sentance" />
+       <module name="Java_con" />
+       <extension name="coverage">
+         <pattern>
+@@ -55,8 +76,15 @@
+         <option name="Make" enabled="true" />
+       </method>
+     </configuration>
+-    <configuration name="Find_duplicate_element_in_Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+-      <option name="MAIN_CLASS_NAME" value="Collection.Find_duplicate_element_in_Array" />
++    <configuration name="Java" type="Application" factoryName="Application">
++      <option name="MAIN_CLASS_NAME" value="Collection.Array_list" />
++      <module name="Java_con" />
++      <method v="2">
++        <option name="Make" enabled="true" />
++      </method>
++    </configuration>
++    <configuration name="Practice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
++      <option name="MAIN_CLASS_NAME" value="Collection.Practice" />
+       <module name="Java_con" />
+       <extension name="coverage">
+         <pattern>
+@@ -68,17 +96,8 @@
+         <option name="Make" enabled="true" />
+       </method>
+     </configuration>
+-    <configuration name="Java" type="Application" factoryName="Application">
+-      <option name="MAIN_CLASS_NAME" value="Collection.Array_list" />
+-      <module name="Java_con" />
+-      <method v="2">
+-        <option name="Make" enabled="true" />
+-      </method>
+-    </configuration>
+-    <configuration name="Practice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+-      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+-      <option name="MAIN_CLASS_NAME" value="Collection.Practice" />
++    <configuration name="Reverse_each_word_present_in_the_sentence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
++      <option name="MAIN_CLASS_NAME" value="Collection.Reverse_each_word_present_in_the_sentence" />
+       <module name="Java_con" />
+       <extension name="coverage">
+         <pattern>
+@@ -90,8 +109,8 @@
+         <option name="Make" enabled="true" />
+       </method>
+     </configuration>
+-    <configuration name="Sum_of_element_in_Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+-      <option name="MAIN_CLASS_NAME" value="Collection.Sum_of_element_in_Array" />
++    <configuration name="Reverse_the_sentence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
++      <option name="MAIN_CLASS_NAME" value="Collection.Reverse_the_sentence" />
+       <module name="Java_con" />
+       <extension name="coverage">
+         <pattern>
+@@ -103,8 +122,8 @@
+         <option name="Make" enabled="true" />
+       </method>
+     </configuration>
+-    <configuration name="star_program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+-      <option name="MAIN_CLASS_NAME" value="Collection.star_program" />
++    <configuration name="reverseaWordSentence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
++      <option name="MAIN_CLASS_NAME" value="Collection.reverseaWordSentence" />
+       <module name="Java_con" />
+       <extension name="coverage">
+         <pattern>
+@@ -136,21 +155,21 @@
+       <method v="2" />
+     </configuration>
+     <list>
++      <item itemvalue="Application.Extract_First_letter_of_sentance" />
+       <item itemvalue="Application.Java" />
+-      <item itemvalue="Application.Even_odd_valuefromArray" />
+-      <item itemvalue="Application.Find_duplicate_element_in_Array" />
+-      <item itemvalue="Application.Sum_of_element_in_Array" />
+-      <item itemvalue="Application.star_program" />
+       <item itemvalue="Application.Practice" />
++      <item itemvalue="Application.Reverse_each_word_present_in_the_sentence" />
++      <item itemvalue="Application.Reverse_the_sentence" />
++      <item itemvalue="Application.reverseaWordSentence" />
+       <item itemvalue="Gradle.Unnamed" />
+     </list>
+     <recent_temporary>
+       <list>
+-        <item itemvalue="Application.Find_duplicate_element_in_Array" />
+-        <item itemvalue="Application.Even_odd_valuefromArray" />
+-        <item itemvalue="Application.Sum_of_element_in_Array" />
+-        <item itemvalue="Application.star_program" />
++        <item itemvalue="Application.reverseaWordSentence" />
+         <item itemvalue="Application.Practice" />
++        <item itemvalue="Application.Reverse_each_word_present_in_the_sentence" />
++        <item itemvalue="Application.Reverse_the_sentence" />
++        <item itemvalue="Application.Extract_First_letter_of_sentance" />
+       </list>
+     </recent_temporary>
+   </component>
+@@ -191,7 +210,14 @@
+       <option name="project" value="LOCAL" />
+       <updated>1692194123755</updated>
+     </task>
+-    <option name="localTasksCounter" value="5" />
++    <task id="LOCAL-00005" summary="Array collection 25-08-2023">
++      <created>1692980624735</created>
++      <option name="number" value="00005" />
++      <option name="presentableId" value="LOCAL-00005" />
++      <option name="project" value="LOCAL" />
++      <updated>1692980624735</updated>
++    </task>
++    <option name="localTasksCounter" value="6" />
+     <servers />
+   </component>
+   <component name="Vcs.Log.Tabs.Properties">
+@@ -208,6 +234,7 @@
+   <component name="VcsManagerConfiguration">
+     <MESSAGE value="Array collection" />
+     <MESSAGE value="Array collection 12-08-2023" />
+-    <option name="LAST_COMMIT_MESSAGE" value="Array collection 12-08-2023" />
++    <MESSAGE value="Array collection 25-08-2023" />
++    <option name="LAST_COMMIT_MESSAGE" value="Array collection 25-08-2023" />
+   </component>
+ </project>
+\ No newline at end of file
+Index: src/Collection/Reverse_the_sentence.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>package Collection;\r\n\r\npublic class Reverse_the_sentence {\r\n        //string is given\r\n    // 1. Create method with the String\r\n    // 2. We have convert string in the string array \"words\"\r\n    // 3. then String result variable which is give the result\r\n    // 4. then for loop for we have to start form the end\r\n    //    so the i = words.length-1 becasue we have to travel from the last i>=0 then i--\r\n    // 5. If (i==0) we eqaul to 0 then result = result+words[i];\r\n    // 6. else having the space then resul = result+words[i]=\" \" ;\r\n    // then use this method to reverse the sentence.\r\n// I am programmer\r\n\r\n    public static String revers_sentance(String str){\r\n        String[] words = str.split(\" \");\r\n        String result = \"\";\r\n        for(int i=words.length-1; i>=0;i--){\r\n            if(i==0) {\r\n                result = result + words[i];\r\n            }\r\n            else{\r\n                result=result+words[i]+\" \";\r\n            }\r\n        }\r\n        return result;\r\n    }\r\n    public static void main(String[] args){\r\n        String str = \"I am Programmer\";\r\n        System.out.println(revers_sentance(str));\r\n    }\r\n\r\n\r\n}\r\n
+===================================================================
+diff --git a/src/Collection/Reverse_the_sentence.java b/src/Collection/Reverse_the_sentence.java
+--- a/src/Collection/Reverse_the_sentence.java	
++++ b/src/Collection/Reverse_the_sentence.java	
+@@ -1,34 +1,10 @@
+ package Collection;
+ 
+ public class Reverse_the_sentence {
+-        //string is given
++    //string is given
+     // 1. Create method with the String
+-    // 2. We have convert string in the string array "words"
+-    // 3. then String result variable which is give the result
+-    // 4. then for loop for we have to start form the end
+-    //    so the i = words.length-1 becasue we have to travel from the last i>=0 then i--
+-    // 5. If (i==0) we eqaul to 0 then result = result+words[i];
+-    // 6. else having the space then resul = result+words[i]=" " ;
+-    // then use this method to reverse the sentence.
+-// I am programmer
++    // 2. We have convert string in the string array "words
+ 
+-    public static String revers_sentance(String str){
+-        String[] words = str.split(" ");
+-        String result = "";
+-        for(int i=words.length-1; i>=0;i--){
+-            if(i==0) {
+-                result = result + words[i];
+-            }
+-            else{
+-                result=result+words[i]+" ";
+-            }
+-        }
+-        return result;
+-    }
+-    public static void main(String[] args){
+-        String str = "I am Programmer";
+-        System.out.println(revers_sentance(str));
+-    }
+ 
+ 
+ }
+Index: src/Collection/Practice.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>package Collection;\r\n\r\nimport java.util.HashSet;\r\n\r\npublic class Practice {\r\n\r\n    public static void main(String[] args) {\r\n\r\n        //duplicate value of array\r\n\r\n        String arr[] = {\"java\",\"aditya\",\"java\"};\r\n\r\n        HashSet<String> lang = new HashSet<>();\r\n        for(String a : arr){\r\n           if(lang.add(a)==false){\r\n               System.out.println(\"arry consist of duplicate value : \"+a);\r\n           }\r\n        }\r\n\r\n    }\r\n}\r\n
+===================================================================
+diff --git a/src/Collection/Practice.java b/src/Collection/Practice.java
+--- a/src/Collection/Practice.java	
++++ b/src/Collection/Practice.java	
+@@ -1,21 +1,46 @@
+ package Collection;
+ 
+-import java.util.HashSet;
+-
+ public class Practice {
+ 
++  // revere the sentence  "i am programmer"
++
++  public static String reverse(String str) {
++    String[] words = str.split(" ");
++    String result = "";
++    for (int i = words.length - 1; i >= 0; i--) {
++      if (i == 0) {
++        result = result + words[i];
++      } else {
++        result = result + words[i] + " ";
++      }
++
++    }
++    return result;
++  }
++
++  public static String reverseWord(String word) {
++    StringBuilder reversedWord = new StringBuilder(word);
++    return reversedWord.reverse().toString();
++  }
++
++  public class ReverseWordsAndSentence {
++    public static String reverseWordsAndSentence(String str) {
++      String[] words = str.split(" ");
++      String result = "";
++      for (int i = words.length - 1; i >= 0; i--) {
++        String reversedWord = reverseWord(words[i]);
++        if (i == 0) {
++          result = result + reversedWord;
++        } else {
++          result = result + reversedWord + " ";
++        }
++      }
++      return result;
++    }
++
+     public static void main(String[] args) {
+-
+-        //duplicate value of array
+-
+-        String arr[] = {"java","aditya","java"};
+-
+-        HashSet<String> lang = new HashSet<>();
+-        for(String a : arr){
+-           if(lang.add(a)==false){
+-               System.out.println("arry consist of duplicate value : "+a);
+-           }
+-        }
+-
+-    }
++      String str1 = "I am Aditya";
++      System.out.println(reverseWordsAndSentence(str1));
++    }
++  }
+ }
+Index: src/Collection/Extract_First_letter_of_sentance.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>package Collection;\r\n\r\nimport org.openqa.selenium.json.JsonOutput;\r\n\r\npublic class Extract_First_letter_of_sentance {\r\n    public static void main(String []args) {\r\n        // use the Substring\r\n        String str = \"Google this aditya\";\r\n        System.out.println(str.substring(12,17));\r\n    }\r\n}\r\n
+===================================================================
+diff --git a/src/Collection/Extract_First_letter_of_sentance.java b/src/Collection/Extract_First_letter_of_sentance.java
+--- a/src/Collection/Extract_First_letter_of_sentance.java	
++++ b/src/Collection/Extract_First_letter_of_sentance.java	
+@@ -1,11 +1,11 @@
+ package Collection;
+ 
+-import org.openqa.selenium.json.JsonOutput;
++
+ 
+ public class Extract_First_letter_of_sentance {
+     public static void main(String []args) {
+         // use the Substring
+         String str = "Google this aditya";
+-        System.out.println(str.substring(12,17));
++        System.out.println(str.substring(0,1));
+     }
+ }
