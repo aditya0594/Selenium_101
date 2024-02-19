@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b267a7ed-54e0-4ac4-b7e1-1f9fe69edda7" name="Changes" comment="java_com_ extent reportes and listener added 18-02-2024">
-      <change beforePath="$PROJECT_DIR$/.gitpod.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/second text file.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/LAmda_file/Lambda_test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LAmda_file/Lambda_test.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
