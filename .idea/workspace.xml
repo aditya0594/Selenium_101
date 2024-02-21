@@ -4,9 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b267a7ed-54e0-4ac4-b7e1-1f9fe69edda7" name="Changes" comment="java_com_ extent reportes and listener added 18-02-2024">
+    <list default="true" id="b267a7ed-54e0-4ac4-b7e1-1f9fe69edda7" name="Changes" comment="lambda_test all step and cases">
+      <change afterPath="$PROJECT_DIR$/src/main/java/Lamda_file/LambdaTestAutomation.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/LAmda_file/Lambda_test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LAmda_file/Lambda_test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/LAmda_file/Lambda_test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/LAmda_file/ITestListener.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/LAmda_file/Lambda_test$LambdaTestCertification.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/LAmda_file/Lambda_test.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/LAmda_file/Lambda_test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/LAmda_file/Selenium_Suite.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/LAmda_file/Selenium_other_methods.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/LAmda_file/extend_report_example.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,19 +57,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/Users/HM/IdeaProjects/Selenium_101",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "reference.settings.project.maven.repository.indices"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/HM/IdeaProjects/Selenium_101&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.project.maven.repository.indices&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="SeleniumTopic" />
@@ -78,20 +85,7 @@
       <recent name="SeleniumTopic" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.Lambda_test.test_method">
-    <configuration name="AbstractChildOneClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Abtraction.AbstractChildOneClass" />
-      <module name="Practice_programs" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Abtraction.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="TestNG.C:/Users/HM/IdeaProjects/Selenium_101/testng.xml">
     <configuration name="Java" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="Java_Program.Array_list" />
       <module name="Practice_programs" />
@@ -118,16 +112,26 @@
       <DebugAllEnabled>false</DebugAllEnabled>
       <method v="2" />
     </configuration>
-    <configuration name="Lambda_test" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="C:/Users/HM/IdeaProjects/Selenium_101/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Practice_programs" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LambdaTestAutomation (1)" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Practice_programs" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LAmda_file.*" />
+          <option name="PATTERN" value="Lamda_file.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="SeleniumTopic" />
-      <option name="MAIN_CLASS_NAME" value="LAmda_file.Lambda_test" />
+      <option name="PACKAGE_NAME" value="Lamda_file" />
+      <option name="MAIN_CLASS_NAME" value="Lamda_file.LambdaTestAutomation" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -135,16 +139,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lambda_test" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="LambdaTestAutomation" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Practice_programs" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LAmda_file.*" />
+          <option name="PATTERN" value="Lamda_file.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="SeleniumTopic" />
-      <option name="MAIN_CLASS_NAME" value="LAmda_file.Lambda_test" />
+      <option name="PACKAGE_NAME" value="Lamda_file" />
+      <option name="MAIN_CLASS_NAME" value="Lamda_file.LambdaTestAutomation" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -152,34 +156,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lambda_test" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="LambdaTestAutomation.Scenario2" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Practice_programs" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LAmda_file.*" />
+          <option name="PATTERN" value="Lamda_file.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="SeleniumTopic" />
-      <option name="MAIN_CLASS_NAME" value="LAmda_file.Lambda_test" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Lambda_test.test_method" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Practice_programs" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="LAmda_file.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="LAmda_file" />
-      <option name="MAIN_CLASS_NAME" value="LAmda_file.Lambda_test" />
-      <option name="METHOD_NAME" value="test_method" />
+      <option name="PACKAGE_NAME" value="Lamda_file" />
+      <option name="MAIN_CLASS_NAME" value="Lamda_file.LambdaTestAutomation" />
+      <option name="METHOD_NAME" value="Scenario2" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -187,41 +174,61 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Selenium_other_methods (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="LambdaTestAutomation.Scenario2" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Practice_programs" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="SeleniumTopic.*" />
+          <option name="PATTERN" value="Lamda_file.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="SeleniumTopic" />
-      <option name="MAIN_CLASS_NAME" value="SeleniumTopic.Selenium_other_methods" />
-      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="PACKAGE_NAME" value="Lamda_file" />
+      <option name="MAIN_CLASS_NAME" value="Lamda_file.LambdaTestAutomation" />
+      <option name="METHOD_NAME" value="Scenario2" />
+      <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Selenium_other_methods (2)" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="LambdaTestAutomation.executeScenario3" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Practice_programs" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="SeleniumTopic.*" />
+          <option name="PATTERN" value="Lamda_file.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="SeleniumTopic" />
-      <option name="MAIN_CLASS_NAME" value="SeleniumTopic.Selenium_other_methods" />
-      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="PACKAGE_NAME" value="Lamda_file" />
+      <option name="MAIN_CLASS_NAME" value="Lamda_file.LambdaTestAutomation" />
+      <option name="METHOD_NAME" value="executeScenario3" />
+      <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Selenium_other_methods" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="LambdaTestAutomation.executeScenario3" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Practice_programs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lamda_file.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Lamda_file" />
+      <option name="MAIN_CLASS_NAME" value="Lamda_file.LambdaTestAutomation" />
+      <option name="METHOD_NAME" value="executeScenario3" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lambda_test" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Practice_programs" />
       <extension name="coverage">
         <pattern>
@@ -230,7 +237,7 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="SeleniumTopic" />
-      <option name="MAIN_CLASS_NAME" value="LAmda_file.Selenium_other_methods" />
+      <option name="MAIN_CLASS_NAME" value="LAmda_file.Lambda_test" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -238,7 +245,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Selenium_other_methods" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="Lambda_test" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Practice_programs" />
       <extension name="coverage">
         <pattern>
@@ -247,8 +254,26 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="SeleniumTopic" />
-      <option name="MAIN_CLASS_NAME" value="LAmda_file.Selenium_other_methods" />
+      <option name="MAIN_CLASS_NAME" value="LAmda_file.Lambda_test" />
       <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lambdatest.executeScenario3" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Practice_programs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lamda_file.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Lamda_file" />
+      <option name="MAIN_CLASS_NAME" value="Lamda_file.Lambdatest" />
+      <option name="METHOD_NAME" value="executeScenario3" />
+      <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
       <method v="2">
@@ -257,18 +282,20 @@
     </configuration>
     <list>
       <item itemvalue="Application.Java" />
-      <item itemvalue="Application.AbstractChildOneClass" />
       <item itemvalue="Gradle.Unnamed" />
-      <item itemvalue="TestNG.Lambda_test" />
-      <item itemvalue="TestNG.Lambda_test.test_method" />
+      <item itemvalue="TestNG.C:/Users/HM/IdeaProjects/Selenium_101/testng.xml" />
+      <item itemvalue="TestNG.LambdaTestAutomation" />
+      <item itemvalue="TestNG.LambdaTestAutomation (1)" />
+      <item itemvalue="TestNG.LambdaTestAutomation.Scenario2" />
+      <item itemvalue="TestNG.LambdaTestAutomation.executeScenario3" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.Lambda_test.test_method" />
-        <item itemvalue="TestNG.Lambda_test" />
-        <item itemvalue="Application.AbstractChildOneClass" />
-        <item itemvalue="TestNG.Lambda_test" />
-        <item itemvalue="TestNG.Lambda_test" />
+        <item itemvalue="TestNG.C:/Users/HM/IdeaProjects/Selenium_101/testng.xml" />
+        <item itemvalue="TestNG.LambdaTestAutomation (1)" />
+        <item itemvalue="TestNG.LambdaTestAutomation" />
+        <item itemvalue="TestNG.LambdaTestAutomation.executeScenario3" />
+        <item itemvalue="TestNG.LambdaTestAutomation.executeScenario3" />
       </list>
     </recent_temporary>
   </component>
@@ -365,7 +392,14 @@
       <option name="project" value="LOCAL" />
       <updated>1708269867556</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="lambda_test all step and cases">
+      <created>1708379008476</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1708379008476</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -390,7 +424,8 @@
     <MESSAGE value="java_com_ 26-01-2024" />
     <MESSAGE value="java_com_ extent reportes and listener added 07-02-2024" />
     <MESSAGE value="java_com_ extent reportes and listener added 18-02-2024" />
-    <option name="LAST_COMMIT_MESSAGE" value="java_com_ extent reportes and listener added 18-02-2024" />
+    <MESSAGE value="lambda_test all step and cases" />
+    <option name="LAST_COMMIT_MESSAGE" value="lambda_test all step and cases" />
   </component>
   <component name="XDebuggerManager">
     <watches-manager>
