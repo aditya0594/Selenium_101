@@ -4,16 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b267a7ed-54e0-4ac4-b7e1-1f9fe69edda7" name="Changes" comment="lambda_test all step and cases">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Lamda_file/LambdaTestAutomation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/LAmda_file/Lambda_test.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/LAmda_file/ITestListener.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/LAmda_file/Lambda_test$LambdaTestCertification.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/LAmda_file/Lambda_test.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/LAmda_file/Lambda_test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/LAmda_file/Selenium_Suite.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/LAmda_file/Selenium_other_methods.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/LAmda_file/extend_report_example.class" beforeDir="false" />
+    <list default="true" id="b267a7ed-54e0-4ac4-b7e1-1f9fe69edda7" name="Changes" comment="lambda_test 21-02-2024">
+      <change afterPath="$PROJECT_DIR$/.gitpod.Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitpod.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testng.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,19 +51,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/HM/IdeaProjects/Selenium_101&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.project.maven.repository.indices&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/HM/IdeaProjects/Selenium_101",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="SeleniumTopic" />
@@ -399,7 +393,14 @@
       <option name="project" value="LOCAL" />
       <updated>1708379008476</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="lambda_test 21-02-2024">
+      <created>1708497736249</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1708497736252</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -425,7 +426,8 @@
     <MESSAGE value="java_com_ extent reportes and listener added 07-02-2024" />
     <MESSAGE value="java_com_ extent reportes and listener added 18-02-2024" />
     <MESSAGE value="lambda_test all step and cases" />
-    <option name="LAST_COMMIT_MESSAGE" value="lambda_test all step and cases" />
+    <MESSAGE value="lambda_test 21-02-2024" />
+    <option name="LAST_COMMIT_MESSAGE" value="lambda_test 21-02-2024" />
   </component>
   <component name="XDebuggerManager">
     <watches-manager>

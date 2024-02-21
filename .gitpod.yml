@@ -1,0 +1,11 @@
+# .gitpod.yml
+image:
+  file: .gitpod.Dockerfile
+
+tasks:
+  - init: "mvn compile"
+    command: "mvn test -DsuiteXmlFile=testng.xml"
+
+ports:
+  - port: 8080
+    onOpen: ignore
